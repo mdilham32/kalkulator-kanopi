@@ -1,6 +1,21 @@
 {
-  "mobilisasi": 500000,
-  "pembongkaran": 500000,
-  "rangka_per_m2": 135000,
-  "atap_per_m2": 95000
+  "bangun": {
+    "sederhana": {
+      "min": 3500000,
+      "max": 4000000
+    },
+    "medium": {
+      "min": 4100000,
+      "max": 5500000
+    },
+    "mewah": {
+      "min": 5600000
+    }
+  },
+  "kanopi": {
+    "mobilisasi": 500000,
+    "pembongkaran": 500000,
+    "rangka_per_m2": 135000,
+    "atap_per_m2": 95000
+  }
 }
