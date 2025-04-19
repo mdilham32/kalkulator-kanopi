@@ -13,9 +13,30 @@
     }
   },
   "kanopi": {
-    "mobilisasi": 1000000,
+    "mobilisasi": 500000,
     "pembongkaran": 500000,
     "rangka_per_m2": 135000,
     "atap_per_m2": 95000
+  },
+  "atap_plafon": {
+    "mobilisasi": 500000,
+    "bongkaran": 1000000,
+    "plafon": {
+      "gypsum_rangka": 200000,
+      "lis_grc": 175000,
+      "gypsum_wr": 269000
+    },
+    "atap": {
+      "rangka": 145000,
+      "penutup": 150000
+    },
+    "pengecatan": {
+      "plafon_interior": 44000,
+      "lis_plafon": 44000
+    },
+    "kelistrikan": {
+      "instalasi_lampu": 232000,
+      "instalasi_saklar": 232000
+    }
   }
 }
